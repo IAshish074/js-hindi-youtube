@@ -45,5 +45,3 @@ console.log(gameName.split(' '))
 
 
 
-
-
